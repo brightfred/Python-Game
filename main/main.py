@@ -18,7 +18,7 @@ game_places = {
         "Image": "forest.png",
     },
     "Cave Entrance": {
-        "Story": "You are at the entrance of a dark cave. The air is cold, and you hear distant growls.\n"
+        "Story": "You are at the entrance of a dark cave. The air is cold, brrrrrrrr , and you hear distant growls.\n"
         "To the south is the forest, and to the north is the cave’s interior.",
         "North": "Cave",
         "South": "Forest",
